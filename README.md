@@ -21,3 +21,9 @@ The ECUAL modules as the LM35 Temperature Sensor, Keypad, LCD,
 EEPROM, Servo and DC Motors, LEDs, and Push Buttons.
 
 Then Developed it using RTOS using Eclipse tool.
+
+<h3>Demo</h3>
+
+
+https://github.com/ShimaaELsaadi/SmartHome/assets/120274014/64fea2c6-affd-4060-b32b-ed9f44b45be3
+
